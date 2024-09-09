@@ -1,3 +1,4 @@
 # TodoMiniApp
 
-A description of this package.
+Мини-приложение, в котором можно оставлять заметки.
+
